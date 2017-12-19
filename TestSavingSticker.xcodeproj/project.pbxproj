@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		313536341FE98B0100378880 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 313536331FE98B0100378880 /* ResultViewController.swift */; };
 		B2840DBF1FE8ADF900522474 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2840DBE1FE8ADF900522474 /* AppDelegate.swift */; };
 		B2840DC11FE8ADF900522474 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2840DC01FE8ADF900522474 /* ViewController.swift */; };
 		B2840DC41FE8ADF900522474 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2840DC21FE8ADF900522474 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		313536331FE98B0100378880 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		B2840DBB1FE8ADF900522474 /* TestSavingSticker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestSavingSticker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2840DBE1FE8ADF900522474 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B2840DC01FE8ADF900522474 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				B2840DC01FE8ADF900522474 /* ViewController.swift */,
 				B2840DD01FE8B10000522474 /* Extensions.swift */,
 				B2840DC21FE8ADF900522474 /* Main.storyboard */,
+				313536331FE98B0100378880 /* ResultViewController.swift */,
 				B2840DC51FE8ADF900522474 /* Assets.xcassets */,
 				B2840DC71FE8ADF900522474 /* LaunchScreen.storyboard */,
 				B2840DCA1FE8ADF900522474 /* Info.plist */,
@@ -142,6 +145,7 @@
 				B2840DC11FE8ADF900522474 /* ViewController.swift in Sources */,
 				B2840DD11FE8B10000522474 /* Extensions.swift in Sources */,
 				B2840DBF1FE8ADF900522474 /* AppDelegate.swift in Sources */,
+				313536341FE98B0100378880 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,7 +283,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9R258YP3JH;
+				DEVELOPMENT_TEAM = GVBKTM899S;
 				INFOPLIST_FILE = TestSavingSticker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dev.nico.TestSavingSticker;
@@ -294,7 +298,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9R258YP3JH;
+				DEVELOPMENT_TEAM = GVBKTM899S;
 				INFOPLIST_FILE = TestSavingSticker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dev.nico.TestSavingSticker;
